@@ -8,7 +8,6 @@ NIGHTDIR='/home/anri/Dropbox/Shumny Miksher/NIGHT'
 DAYGOLD='/home/anri/Dropbox/Shumny Miksher/GOLD/DAY'
 NIGHTGOLD='/home/anri/Dropbox/Shumny Miksher/GOLD/NIGHT'
 
-
 today = datetime.datetime.now()
 if today.hour is 00:
 	current_dir=NIGHTDIR
