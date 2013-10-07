@@ -1,1 +1,1 @@
-Simple ices playlist management system in Python.It takes 2 sources (folders) with MP3 files, randomizes them, makes sequence and puts everything to playlist file. Then it sends SIGHUP to ices to reload playlist.
+Simple ices playlist management system in Python.It takes 4 sources (folders DAY, NIGHT, DAY-GOLD and NIGHT-GOLD) with MP3 files, randomizes them, makes sequence and puts everything to playlist file. Then it sends SIGHUP to ices to reload playlist.
